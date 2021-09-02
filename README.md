@@ -1,6 +1,6 @@
 # CRUD-Web
 
-Exmplo de CRUD com HTLM e CSS
+Exemplo de CRUD com HTLM e CSS
 
 # Como executar:
 
